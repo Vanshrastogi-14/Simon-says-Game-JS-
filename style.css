@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    height: 170px;
+    width: 170px;
+    border: 8px solid black;
+    border-radius: 20%;
+    margin: 2rem;
+}
+
+.pink{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f9b45f;
+}
+.blue{
+    background-color: #63aac3;
+}
+.purple{
+    background-color: rgb(139, 50, 139);
+}
+
+.flash{
+    background-color: white;
+}
+
+h2{
+    font-size: 4rem;
+    text-decoration: underline;
+    font-weight: bold;
+}
+h3{
+    font-size: 1.7rem;
+}
